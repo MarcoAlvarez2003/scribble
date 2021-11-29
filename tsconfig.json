@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "downlevelIteration": true,
+        "declaration": true,
+        "target": "ES2017",
+        "module": "ESNext",
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "lib": ["DOM", "ESNext"]
+    }
+}
